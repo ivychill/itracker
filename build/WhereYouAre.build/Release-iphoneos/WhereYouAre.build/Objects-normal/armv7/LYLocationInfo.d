@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/chenfeng/source/ios/iTrack/WhereYouAre/LYLocationInfo.m \
+  /Users/chenfeng/source/ios/iTrack/WhereYouAre/LYLocationInfo.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/bmapkit.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKMapManager.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKGeneralDelegate.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKAnnotation.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKAnnotationView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKGeometry.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKMapView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKTypes.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKOverlayView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKOverlay.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKUserLocation.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKOfflineMap.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKOfflineMapType.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKShape.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPointAnnotation.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPinAnnotationView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKMultiPoint.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPolyline.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPolygon.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKCircle.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKOverlayPathView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPolygonView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPolylineView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKCircleView.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKSearch.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKPoiSearchType.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKRouteSearchType.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKGeocodeType.h \
+  /Users/chenfeng/source/ios/iTrack/BaiduMapApi_Lib_iOS_1.2.2/inc/BMKVersion.h
