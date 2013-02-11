@@ -1242,10 +1242,10 @@
     {
         [self closeModeIndicator];
         
-        NSLog(@"receive ID=%d", resTrackEvent.id);
+        NSLog(@"receive ID=%u", resTrackEvent.id);
         self.runningDataset.TrackeeID = resTrackEvent.id;
         self.runningDataset.TrackingWebSession
-            = [[NSString alloc] initWithFormat:@"http://dd.roadclouding.com/t/%d", resTrackEvent.id];
+            = [[NSString alloc] initWithFormat:@"http://dd.roadclouding.com/t/%u", resTrackEvent.id];
         
         NSString *strMsg = [[NSString alloc] initWithFormat:@"发自易寻位，点击 %@ 知道你在哪",self.runningDataset.TrackingWebSession];
         [self sendSMS:strMsg recipientList:nil];

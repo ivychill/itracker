@@ -14,7 +14,7 @@
 @property LYLocationInfo *FriendLocation;
 @property LYLocationInfo *MeetingPointLocation;
 @property NSString *DevUUID; //as ZMQ ID and TrackerID
-@property int32_t TrackeeID;
+@property uint32_t TrackeeID;
 @property NSString *TrackingWebSession;
 
 
